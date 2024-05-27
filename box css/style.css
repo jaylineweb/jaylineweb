@@ -1,0 +1,6 @@
+*{margin:0;padding:0;}
+.box{width:200px;height:200px;border:5px solid red;}
+.red{border:5px solid red;}
+.green{border:5px solid green;}
+.blue{border:5px solid blue;}
+.box + .box, .box + div{margin-top:20px;}
