@@ -2,3 +2,5 @@
 
 *{margin:0;padding:0;}
 a:link,a:visited{text-decoration:none;}
+
+audio{display:block;margin-top:10px;}
